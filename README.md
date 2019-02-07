@@ -8,6 +8,7 @@ The best way to use it by via vaadin.com/start - you can get only the necessary 
 
 Import the project to the IDE of your choosing as a Maven project. 
 
+
 ## Setup the project
  In **src\main\resources\static\frontend**, run `bower install`
 ## Run application using
