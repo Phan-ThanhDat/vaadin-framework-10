@@ -1,5 +1,5 @@
 # Project Base for Vaadin Flow and Spring Boot
-#You can see the project by visiting the link: http://18.223.169.113:8080/login
+#You can see the project by visiting the link: http://18.188.219.64:8080/login
 
 This project can be used as a starting point to create your own Vaadin Flow application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
